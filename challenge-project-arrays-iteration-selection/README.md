@@ -17,6 +17,6 @@ In this module, you'll demonstrate your ability to:
 
 
 # Prerequisites
-Experience using Visual Studio Code to develop, build, and run C# console applications that include console I/O and access the methods of .NET classes.
-Experience using if statements in C# to evaluate an expression and branch code accordingly.
-Experience using a foreach loop to access elements of array variables.
+* Experience using Visual Studio Code to develop, build, and run C# console applications that include console I/O and access the methods of .NET classes.
+* Experience using if statements in C# to evaluate an expression and branch code accordingly.
+* Experience using a foreach loop to access elements of array variables.
